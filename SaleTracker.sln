@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaleTracker.API", "SaleTracker.API\SaleTracker.API.csproj", "{ABD81127-2464-417F-94B3-FE656B58F048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaleTracker.Tests", "SaleTracker.Tests\SaleTracker.Tests.csproj", "{D849452F-7F4D-4EB2-B899-1CE3C8B53F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD81127-2464-417F-94B3-FE656B58F048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD81127-2464-417F-94B3-FE656B58F048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD81127-2464-417F-94B3-FE656B58F048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD81127-2464-417F-94B3-FE656B58F048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D849452F-7F4D-4EB2-B899-1CE3C8B53F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D849452F-7F4D-4EB2-B899-1CE3C8B53F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D849452F-7F4D-4EB2-B899-1CE3C8B53F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D849452F-7F4D-4EB2-B899-1CE3C8B53F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
